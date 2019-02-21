@@ -23,12 +23,43 @@
     </item>
     
     <item>
+      <title>The First Proof of the Law of Iterated Logarithm by Aleksandr Khintchine</title>
+      <link>/post/2018/11/15/the-first-proof-of-lil/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/15/the-first-proof-of-lil/</guid>
+      <description>I’ve been always told that Kolmogorov firstly proved the law of iterated logarithm (LIL). One day I happened to have a look at his original piece of the proof of LIL, and happily found that it was not written in Russian. When I was reading Kolmogorov’s piece, I had a hard time to figure out some random jumps in the proof. By seeking for help in the reference papers, I found Khintchine’s paper, from which Kolmogorove borrowed some ideas.</description>
+    </item>
+    
+    <item>
       <title>越武鱼历险记之Efficient Market</title>
       <link>/post/2018/10/08/efficient-market/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/10/08/efficient-market/</guid>
       <description>One day Dr W. Yu was walking down the 1st Ave with Yoofay. There was a $100 bill lying on the ground. As Yoofay reached down to pick it up, Dr W. Yu said, &amp;ldquo;Don&amp;rsquo;t bother. If it were a real $100, someone should have already picked it up.&amp;rdquo; (The original story is from: A Non-random Walk Down Wall Street)</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>/post/2016/02/14/a-plain-markdown-post/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
+      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
+1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

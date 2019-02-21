@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classics on Yufei&#39;s Stub</title>
+    <link>/categories/classics/</link>
+    <description>Recent content in Classics on Yufei&#39;s Stub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/classics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The First Proof of the Law of Iterated Logarithm by Aleksandr Khintchine</title>
+      <link>/post/2018/11/15/the-first-proof-of-lil/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/15/the-first-proof-of-lil/</guid>
+      <description>I’ve been always told that Kolmogorov firstly proved the law of iterated logarithm (LIL). One day I happened to have a look at his original piece of the proof of LIL, and happily found that it was not written in Russian. When I was reading Kolmogorov’s piece, I had a hard time to figure out some random jumps in the proof. By seeking for help in the reference papers, I found Khintchine’s paper, from which Kolmogorove borrowed some ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

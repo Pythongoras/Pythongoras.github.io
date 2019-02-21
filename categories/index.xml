@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>Classics</title>
+      <link>/categories/classics/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/classics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/categories/example/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Math</title>
       <link>/categories/math/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
@@ -25,6 +43,24 @@
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability</title>
+      <link>/categories/probability/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
