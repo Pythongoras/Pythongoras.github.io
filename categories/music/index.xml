@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Yufei&#39;s Stub</title>
+    <link>/categories/music/</link>
+    <description>Recent content in Music on Yufei&#39;s Stub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A musician&#39;s standard for a successful piece</title>
+      <link>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</guid>
+      <description>If the production pleases everyone, then consider it a total failure. If, on the other hand, everyonecriticizes your work, then perhaps theres something worthwhile in it. Real success comes when peopleargue about your work, when half the audience is in raptures and the other half is ready to tear you apart.
+&amp;mdash;-Testimony: The Memoirs of Dmitri Shostakovich p82
+ Perhaps the greatest mathematicians also think in this way?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yufei&#39;s Stub</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Yufei&#39;s Stub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A musician&#39;s standard for a successful piece</title>
+      <link>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</guid>
+      <description>If the production pleases everyone, then consider it a total failure. If, on the other hand, everyonecriticizes your work, then perhaps theres something worthwhile in it. Real success comes when peopleargue about your work, when half the audience is in raptures and the other half is ready to tear you apart.
+&amp;mdash;-Testimony: The Memoirs of Dmitri Shostakovich p82
+ Perhaps the greatest mathematicians also think in this way?</description>
+    </item>
+    
+    <item>
+      <title>越武鱼历险记之Efficient Market</title>
+      <link>/post/2018/10/08/efficient-market/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/10/08/efficient-market/</guid>
+      <description>One day Dr W. Yu was walking down the 1st Ave with Yoofay. There was a $100 bill lying on the ground. As Yoofay reached down to pick it up, Dr W. Yu said, &amp;ldquo;Don&amp;rsquo;t bother. If it were a real $100, someone should have already picked it up.&amp;rdquo; (The original story is from: A Non-random Walk Down Wall Street)</description>
+    </item>
+    
+  </channel>
+</rss>
