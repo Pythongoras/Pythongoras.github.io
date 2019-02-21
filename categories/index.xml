@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yufei&#39;s Stub</title>
-    <link>/categories/</link>
+    <link>https://Pythongoras.github.io/categories/</link>
     <description>Recent content in Categories on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Pythongoras.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Classics</title>
-      <link>/categories/classics/</link>
+      <link>https://Pythongoras.github.io/categories/classics/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/classics/</guid>
+      <guid>https://Pythongoras.github.io/categories/classics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>/categories/math/</link>
+      <link>https://Pythongoras.github.io/categories/math/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/math/</guid>
+      <guid>https://Pythongoras.github.io/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>/categories/music/</link>
+      <link>https://Pythongoras.github.io/categories/music/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/music/</guid>
+      <guid>https://Pythongoras.github.io/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probability</title>
-      <link>/categories/probability/</link>
+      <link>https://Pythongoras.github.io/categories/probability/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/probability/</guid>
+      <guid>https://Pythongoras.github.io/categories/probability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>越武鱼历险记</title>
-      <link>/categories/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0/</link>
+      <link>https://Pythongoras.github.io/categories/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0/</guid>
+      <guid>https://Pythongoras.github.io/categories/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0/</guid>
       <description></description>
     </item>
     
