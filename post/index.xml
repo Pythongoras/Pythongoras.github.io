@@ -23,15 +23,6 @@
     </item>
     
     <item>
-      <title>The Inverse of Right-continuous or Left-continuous Function</title>
-      <link>https://Pythongoras.github.io/post/2019/02/19/the-inverse-of-right-continuous-or-left-continuous-function/</link>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://Pythongoras.github.io/post/2019/02/19/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hausdorff in The Very First Version of Probability</title>
       <link>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
@@ -58,6 +49,17 @@ Kolmogorov revealed his philosophy of creating the probability theory:
       
       <guid>https://Pythongoras.github.io/post/2018/10/08/efficient-market/</guid>
       <description>One day Dr W. Yu was walking down the 1st Ave with Yoofay. There was a $100 bill lying on the ground. As Yoofay reached down to pick it up, Dr W. Yu said, &amp;ldquo;Don&amp;rsquo;t bother. If it were a real $100, someone should have already picked it up.&amp;rdquo; (The original story is from: A Non-random Walk Down Wall Street)</description>
+    </item>
+    
+    <item>
+      <title>The Inverse of Right-continuous Non-decreasing Function</title>
+      <link>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
+      <description>The inverse of a right-continuous non-decreasing function appears a lot in probability. I used to have a hard time to remember the precise form of it. Here is a little digging into this problem.
+The inverse of a right-continuous non-decreasing function can be defined in two ways: \[F^{-1}(w) = \sup\{ y: F(y) \leq w\} \quad \text{or} \quad F^{-1}(w) = \inf\{y: F(y) &amp;gt; w\}\]
+The inverse of a left-continuous non-decreasing function can be defined in two ways: \[G^{-1}(w) = \sup\{ y: G(y) &amp;lt; w\} \quad \text{or} \quad G^{-1}(w) = \inf\{y: G(y) \geq w\}\]</description>
     </item>
     
   </channel>
