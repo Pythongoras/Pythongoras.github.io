@@ -37,7 +37,9 @@
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</guid>
-      <description>The theory of probability, as a mathematical discipline, can and should be developed from axiomsin exactly the same way as Geometry and Algebra. This means that after we have defined the elementsto be studied and their basic relations, and have stated the axioms by which these relations are to begoverned, all further expositions must be based exclusively on these axioms, independent of the usualconcrete meaning of these elements and their relations.</description>
+      <description>When reading Kolmogorov&amp;rsquo;s original paper of the foundation of probability theory, I found the probability theory was actually based on Hausdorff&amp;rsquo;s work in set theory. As a fan of Hausdorff, I felt very delightful.
+Kolmogorov revealed his philosophy of creating the probability theory:
+ The theory of probability, as a mathematical discipline, can and should be developed from axiomsin exactly the same way as Geometry and Algebra. This means that after we have defined the elementsto be studied and their basic relations, and have stated the axioms by which these relations are to begoverned, all further expositions must be based exclusively on these axioms, independent of the usual concrete meaning of these elements and their relations.</description>
     </item>
     
     <item>
