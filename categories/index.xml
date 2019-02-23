@@ -6,14 +6,24 @@
     <description>Recent content in Categories on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Pythongoras.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Analysis</title>
+      <link>https://Pythongoras.github.io/categories/analysis/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classics</title>
       <link>https://Pythongoras.github.io/categories/classics/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://Pythongoras.github.io/categories/classics/</guid>
       <description></description>
@@ -40,7 +50,7 @@
     <item>
       <title>Probability</title>
       <link>https://Pythongoras.github.io/categories/probability/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://Pythongoras.github.io/categories/probability/</guid>
       <description></description>

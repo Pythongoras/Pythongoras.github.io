@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://Pythongoras.github.io/post/2019/02/19/the-inverse-of-right-continuous-or-left-continuous-function/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Pythongoras.github.io/post/2018/11/15/the-first-proof-of-lil/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -28,19 +38,38 @@
   </url>
   
   <url>
+    <loc>https://Pythongoras.github.io/categories/analysis/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Pythongoras.github.io/categories/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Pythongoras.github.io/categories/classics/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/tags/hausdorff/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Pythongoras.github.io/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/tags/kolmogorov/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -69,7 +98,7 @@
   
   <url>
     <loc>https://Pythongoras.github.io/categories/probability/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,6 +111,12 @@
   <url>
     <loc>https://Pythongoras.github.io/tags/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/tags/%E7%81%B5%E9%AD%82%E7%94%BB%E4%BD%9C/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
