@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis on Yufei&#39;s Stub</title>
-    <link>https://Pythongoras.github.io/categories/analysis/</link>
+    <link>/categories/analysis/</link>
     <description>Recent content in Analysis on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Pythongoras.github.io/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Inverse of Right-continuous Non-decreasing Function</title>
-      <link>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
+      <link>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
+      <guid>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
       <description>The inverse of a right-continuous non-decreasing function appears a lot in probability. I used to have a hard time to remember the precise form of it. Here is a little digging into this problem.
 The inverse of a right-continuous non-decreasing function can be defined in two ways: \[F^{-1}(w) = \sup\{ y: F(y) \leq w\} \quad \text{or} \quad F^{-1}(w) = \inf\{y: F(y) &amp;gt; w\}\]
 The inverse of a left-continuous non-decreasing function can be defined in two ways: \[G^{-1}(w) = \sup\{ y: G(y) &amp;lt; w\} \quad \text{or} \quad G^{-1}(w) = \inf\{y: G(y) \geq w\}\]</description>

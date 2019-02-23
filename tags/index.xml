@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yufei&#39;s Stub</title>
-    <link>https://Pythongoras.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Pythongoras.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Non-random Walk Down Wall Street</title>
-      <link>https://Pythongoras.github.io/tags/a-non-random-walk-down-wall-street/</link>
+      <link>/tags/a-non-random-walk-down-wall-street/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/a-non-random-walk-down-wall-street/</guid>
+      <guid>/tags/a-non-random-walk-down-wall-street/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hausdorff</title>
-      <link>https://Pythongoras.github.io/tags/hausdorff/</link>
+      <link>/tags/hausdorff/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/hausdorff/</guid>
+      <guid>/tags/hausdorff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inverse of Function</title>
-      <link>https://Pythongoras.github.io/tags/inverse-of-function/</link>
+      <link>/tags/inverse-of-function/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/inverse-of-function/</guid>
+      <guid>/tags/inverse-of-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kolmogorov</title>
-      <link>https://Pythongoras.github.io/tags/kolmogorov/</link>
+      <link>/tags/kolmogorov/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/kolmogorov/</guid>
+      <guid>/tags/kolmogorov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Law of Iterated Logarithm</title>
-      <link>https://Pythongoras.github.io/tags/law-of-iterated-logarithm/</link>
+      <link>/tags/law-of-iterated-logarithm/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/law-of-iterated-logarithm/</guid>
+      <guid>/tags/law-of-iterated-logarithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shostakovich</title>
-      <link>https://Pythongoras.github.io/tags/shostakovich/</link>
+      <link>/tags/shostakovich/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/tags/shostakovich/</guid>
+      <guid>/tags/shostakovich/</guid>
       <description></description>
     </item>
     
