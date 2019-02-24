@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probability on Yufei&#39;s Stub</title>
-    <link>/categories/probability/</link>
+    <link>https://Pythongoras.github.io/categories/probability/</link>
     <description>Recent content in Probability on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/probability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Pythongoras.github.io/categories/probability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hausdorff in The Very First Version of Probability</title>
-      <link>/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</link>
+      <link>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</guid>
+      <guid>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</guid>
       <description>When reading Kolmogorov&amp;rsquo;s original paper of the foundation of probability theory, I found the probability theory was actually based on Hausdorff&amp;rsquo;s work in set theory. As a fan of Hausdorff, I felt very delightful.
 Kolmogorov revealed his philosophy of creating the probability theory:
  The theory of probability, as a mathematical discipline, can and should be developed from axiomsin exactly the same way as Geometry and Algebra. This means that after we have defined the elementsto be studied and their basic relations, and have stated the axioms by which these relations are to begoverned, all further expositions must be based exclusively on these axioms, independent of the usual concrete meaning of these elements and their relations.</description>
@@ -24,19 +24,19 @@ Kolmogorov revealed his philosophy of creating the probability theory:
     
     <item>
       <title>The First Proof of the Law of Iterated Logarithm by Aleksandr Khintchine</title>
-      <link>/post/2018/11/15/the-first-proof-of-lil/</link>
+      <link>https://Pythongoras.github.io/post/2018/11/15/the-first-proof-of-lil/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/11/15/the-first-proof-of-lil/</guid>
+      <guid>https://Pythongoras.github.io/post/2018/11/15/the-first-proof-of-lil/</guid>
       <description>I’ve been always told that Kolmogorov firstly proved the law of iterated logarithm (LIL). One day I happened to have a look at his original piece of the proof of LIL, and happily found that it was not written in Russian. When I was reading Kolmogorov’s piece, I had a hard time to figure out some random jumps in the proof. By seeking for help in the reference papers, I found Khintchine’s paper, from which Kolmogorove borrowed some ideas.</description>
     </item>
     
     <item>
       <title>The Inverse of Right-continuous Non-decreasing Function</title>
-      <link>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
+      <link>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
+      <guid>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
       <description>The inverse of a right-continuous non-decreasing function appears a lot in probability. I used to have a hard time to remember the precise form of it. Here is a little digging into this problem.
 The inverse of a right-continuous non-decreasing function can be defined in two ways: \[F^{-1}(w) = \sup\{ y: F(y) \leq w\} \quad \text{or} \quad F^{-1}(w) = \inf\{y: F(y) &amp;gt; w\}\]
 The inverse of a left-continuous non-decreasing function can be defined in two ways: \[G^{-1}(w) = \sup\{ y: G(y) &amp;lt; w\} \quad \text{or} \quad G^{-1}(w) = \inf\{y: G(y) \geq w\}\]</description>

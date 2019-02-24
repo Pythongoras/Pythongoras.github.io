@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Yufei&#39;s Stub</title>
-    <link>/</link>
+    <link>https://Pythongoras.github.io/</link>
     <description>Recent content in Home on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Pythongoras.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A musician&#39;s standard for a successful piece</title>
-      <link>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</link>
+      <link>https://Pythongoras.github.io/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</guid>
+      <guid>https://Pythongoras.github.io/post/2019/02/20/a-musicians-standard-for-a-successful-piece/</guid>
       <description>If the production pleases everyone, then consider it a total failure. If, on the other hand, everyonecriticizes your work, then perhaps theres something worthwhile in it. Real success comes when peopleargue about your work, when half the audience is in raptures and the other half is ready to tear you apart.
 &amp;mdash;-Testimony: The Memoirs of Dmitri Shostakovich p82
  Perhaps the greatest mathematicians also think in this way?</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Hausdorff in The Very First Version of Probability</title>
-      <link>/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</link>
+      <link>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</guid>
+      <guid>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</guid>
       <description>When reading Kolmogorov&amp;rsquo;s original paper of the foundation of probability theory, I found the probability theory was actually based on Hausdorff&amp;rsquo;s work in set theory. As a fan of Hausdorff, I felt very delightful.
 Kolmogorov revealed his philosophy of creating the probability theory:
  The theory of probability, as a mathematical discipline, can and should be developed from axiomsin exactly the same way as Geometry and Algebra. This means that after we have defined the elementsto be studied and their basic relations, and have stated the axioms by which these relations are to begoverned, all further expositions must be based exclusively on these axioms, independent of the usual concrete meaning of these elements and their relations.</description>
@@ -35,28 +35,37 @@ Kolmogorov revealed his philosophy of creating the probability theory:
     
     <item>
       <title>The First Proof of the Law of Iterated Logarithm by Aleksandr Khintchine</title>
-      <link>/post/2018/11/15/the-first-proof-of-lil/</link>
+      <link>https://Pythongoras.github.io/post/2018/11/15/the-first-proof-of-lil/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/11/15/the-first-proof-of-lil/</guid>
+      <guid>https://Pythongoras.github.io/post/2018/11/15/the-first-proof-of-lil/</guid>
       <description>I’ve been always told that Kolmogorov firstly proved the law of iterated logarithm (LIL). One day I happened to have a look at his original piece of the proof of LIL, and happily found that it was not written in Russian. When I was reading Kolmogorov’s piece, I had a hard time to figure out some random jumps in the proof. By seeking for help in the reference papers, I found Khintchine’s paper, from which Kolmogorove borrowed some ideas.</description>
     </item>
     
     <item>
       <title>越武鱼历险记之Efficient Market</title>
-      <link>/post/2018/10/08/efficient-market/</link>
+      <link>https://Pythongoras.github.io/post/2018/10/08/efficient-market/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/10/08/efficient-market/</guid>
+      <guid>https://Pythongoras.github.io/post/2018/10/08/efficient-market/</guid>
       <description>One day Dr W. Yu was walking down the 1st Ave with Yoofay. There was a $100 bill lying on the ground. As Yoofay reached down to pick it up, Dr W. Yu said, &amp;ldquo;Don&amp;rsquo;t bother. If it were a real $100, someone should have already picked it up.&amp;rdquo; (The original story is from: A Non-random Walk Down Wall Street)</description>
     </item>
     
     <item>
+      <title>越武鱼历险记之邻居不让我吹长笛</title>
+      <link>https://Pythongoras.github.io/post/2018/03/14/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0%E4%B9%8B%E9%82%BB%E5%B1%85%E4%B8%8D%E8%AE%A9%E6%88%91%E5%90%B9%E9%95%BF%E7%AC%9B/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2018/03/14/%E8%B6%8A%E6%AD%A6%E9%B1%BC%E5%8E%86%E9%99%A9%E8%AE%B0%E4%B9%8B%E9%82%BB%E5%B1%85%E4%B8%8D%E8%AE%A9%E6%88%91%E5%90%B9%E9%95%BF%E7%AC%9B/</guid>
+      <description>越武鱼：“每次我一吹长笛邻居就要敲我的墙，好烦哦。” Yoofay:“你吹的啥？” 越武鱼：“春晚主题曲。当当当当，当当当当～” Yoofay:…</description>
+    </item>
+    
+    <item>
       <title>The Inverse of Right-continuous Non-decreasing Function</title>
-      <link>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
+      <link>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</link>
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
+      <guid>https://Pythongoras.github.io/post/2017/03/02/the-inverse-of-right-continuous-or-left-continuous-function/</guid>
       <description>The inverse of a right-continuous non-decreasing function appears a lot in probability. I used to have a hard time to remember the precise form of it. Here is a little digging into this problem.
 The inverse of a right-continuous non-decreasing function can be defined in two ways: \[F^{-1}(w) = \sup\{ y: F(y) \leq w\} \quad \text{or} \quad F^{-1}(w) = \inf\{y: F(y) &amp;gt; w\}\]
 The inverse of a left-continuous non-decreasing function can be defined in two ways: \[G^{-1}(w) = \sup\{ y: G(y) &amp;lt; w\} \quad \text{or} \quad G^{-1}(w) = \inf\{y: G(y) \geq w\}\]</description>
@@ -64,10 +73,10 @@ The inverse of a left-continuous non-decreasing function can be defined in two w
     
     <item>
       <title>About Hugo XMin</title>
-      <link>/about/</link>
+      <link>https://Pythongoras.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://Pythongoras.github.io/about/</guid>
       <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
     </item>
     
