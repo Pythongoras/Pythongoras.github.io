@@ -6,10 +6,20 @@
     <description>Recent content in Home on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Pythongoras.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bandit Algorithm Cha1 Highlights</title>
+      <link>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha1-highlights/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha1-highlights/</guid>
+      <description>Stochastic Bandit: a collection of distributions \(\nu = (P_a: a\in\mathcal{A})\) where \(\mathcal{A}\) is a set of available actions. The learner and the environment interact sequentially over n rounds. In each round \(t\in\{1,...,n\}\) the learner chooses an action \(A_t\in\mathcal{A}\), which is fed to the environment. The environment then samples a reward \(X_t\in\mathbb{R}\) from the distribution \(P_{A_t}\), and reveals \(X_t\) to the learner.
+Environment class: a class \(\xi\) gives the observer information about the bandits belonging to it.</description>
+    </item>
     
     <item>
       <title>A musician&#39;s standard for a successful piece</title>

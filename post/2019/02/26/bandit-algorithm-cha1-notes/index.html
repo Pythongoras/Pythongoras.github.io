@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bandit Algorithm Cha1 Notes | Yufei&#39;s Stub</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Bandit Algorithm Cha1 Notes</span></h1>
+
+<h2 class="date">2019/02/26</h2>
+</div>
+
+<main>
+<p><strong>Stochastic Bandit</strong>: a collection of distributions (\nv = (P_a: a\in\mathcal{A})) where $\mathcal{A}$ is a set of available actions. The learner and the environment interact sequentially over n rounds. In each round $t\in{1,&hellip;,n}$ the learner chooses an action $A_t\in\mathcal{A}$, which is fed to the environment. The environment then samples a reward $X<em>t\in\mathbb{R}$ from the distribution $P</em>{A_t}$, and reveals $X_t$ to the learner.</p>
+
+<p><strong>Environment class</strong>: the class $\Epsilon$ a bandit $\nu$ belongs to. It gives the observer information about the bandits belonging to it. For example, finite variance etc. For the <strong>unstructured class</strong>, the observer cannot know other arm&rsquo;s information by playing one arm; for the <strong>structured class</strong>, the observer is able to get information from other arms by playing one arm.</p>
+
+<p>The notations we need to prove the properties of regret of stochastic bandits:
+$$\Delta_a = \mu^*(\nu) - \mu_a(\nu)$$
+$$T<em>a(n) = \sum\limits</em>{t=1}^n I{A_t == a}$$</p>
+
+<p>The learning objective of bandit algorithm is to maximize the <strong>reward</strong>, or equivalently, minimize the <strong>regret</strong>.</p>
+
+<p><strong>Reward</strong>:
+$$S<em>n = \sum\limits</em>{t=1}^n X_t$$</p>
+
+<p><strong>Empirical Regret</strong>:
+$$\hat{R<em>n} = n\mu^* - \sum\limits</em>{t=1}^n X_t$$</p>
+
+<p><strong>Expected Regret</strong>:
+$$R(\pi, \nu) = n\mu^*(\nu) - \sum\limits_{t=1}^n \mathbb{E}[X<em>t] = \sum\limits</em>{a\in\mathcal{A}}\Delta_a \mathbb{E}[T_a(n)]$$</p>
+
+<p>Of course, different bandits have different optimal policies. The best we can do is to find a policy such that $\lim\limits_{n\rightarrow\infty}R_n(\pi, \nu)/n = 0$. More specifically,
+$$R_n(\pi, \nu)\leq C(\nu)f(n)$$
+where $C$ is a constant and $f(n)\rightarrow 0$.</p>
+
+<p>A <a href="https://github.com/Pythongoras/Pythongoras_github_io_files/blob/master/q6.py">toy code</a> and <a href="https://github.com/Pythongoras/Pythongoras_github_io_files/blob/master/q6_exp.ipynb">experiment</a> about the implementation of Bernoulli Bandit. (Exercise 4.6, 4.7, 4.10, 4.11)</p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async
+src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+  
+  <hr/>
+  The theme of this website was gratefully taken from &copy; <a href="https://yihui.name">Yihui Xie</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
