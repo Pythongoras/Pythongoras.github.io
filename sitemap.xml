@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha1-highlights/</loc>
+    <loc>https://Pythongoras.github.io/post/2019/02/28/cmu/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha4-highlights/</loc>
     <lastmod>2019-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -15,6 +20,11 @@
   <url>
     <loc>https://Pythongoras.github.io/post/2019/02/14/the-very-first-version-of-probability-kolmogorov-and-hausdorff/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/post/2019/01/18/cmu/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,6 +64,24 @@
   </url>
   
   <url>
+    <loc>https://Pythongoras.github.io/categories/bandit-algorithm-book/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/tags/bandits/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/categories/cmu%E5%90%8D%E5%AA%9B%E7%B3%BB%E5%88%97/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Pythongoras.github.io/categories/</loc>
     <lastmod>2017-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -73,7 +101,7 @@
   
   <url>
     <loc>https://Pythongoras.github.io/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,13 +136,19 @@
   
   <url>
     <loc>https://Pythongoras.github.io/post/</loc>
-    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Pythongoras.github.io/categories/probability/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Pythongoras.github.io/tags/puccini/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

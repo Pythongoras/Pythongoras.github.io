@@ -6,17 +6,26 @@
     <description>Recent content in Home on Yufei&#39;s Stub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Pythongoras.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bandit Algorithm Cha1 Highlights</title>
-      <link>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha1-highlights/</link>
+      <title>CMU名媛系列之如果可能请掉头</title>
+      <link>https://Pythongoras.github.io/post/2019/02/28/cmu/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2019/02/28/cmu/</guid>
+      <description>cmu名媛开车载着她的三个好朋友去strip district吃饭，跟着导航一路走，但是发现路越走越诡异，好像跟要去的方向正好相反。 由于大家都</description>
+    </item>
+    
+    <item>
+      <title>Bandit Algorithm Cha4 Highlights</title>
+      <link>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha4-highlights/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha1-highlights/</guid>
+      <guid>https://Pythongoras.github.io/post/2019/02/26/bandit-algorithm-cha4-highlights/</guid>
       <description>Stochastic Bandit: a collection of distributions \(\nu = (P_a: a\in\mathcal{A})\) where \(\mathcal{A}\) is a set of available actions. The learner and the environment interact sequentially over n rounds. In each round \(t\in\{1,...,n\}\) the learner chooses an action \(A_t\in\mathcal{A}\), which is fed to the environment. The environment then samples a reward \(X_t\in\mathbb{R}\) from the distribution \(P_{A_t}\), and reveals \(X_t\) to the learner.
 Environment class: a class \(\xi\) gives the observer information about the bandits belonging to it.</description>
     </item>
@@ -41,6 +50,15 @@ Environment class: a class \(\xi\) gives the observer information about the band
       <description>When reading Kolmogorov&amp;rsquo;s original paper of the foundation of probability theory, I found the probability theory was actually based on Hausdorff&amp;rsquo;s work in set theory. As a fan of Hausdorff, I felt very delightful.
 Kolmogorov revealed his philosophy of creating the probability theory:
  The theory of probability, as a mathematical discipline, can and should be developed from axiomsin exactly the same way as Geometry and Algebra. This means that after we have defined the elementsto be studied and their basic relations, and have stated the axioms by which these relations are to begoverned, all further expositions must be based exclusively on these axioms, independent of the usual concrete meaning of these elements and their relations.</description>
+    </item>
+    
+    <item>
+      <title>CMU名媛系列之名媛喜欢波西米亚人的原因</title>
+      <link>https://Pythongoras.github.io/post/2019/01/18/cmu/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2019/01/18/cmu/</guid>
+      <description>Yoofay和CMU名媛聊到普契尼。 CMU名媛：“你最喜欢普契尼的哪个歌剧？” Yoofay： “当然是托斯卡。你呢？” CMU名媛：“波希米亚人</description>
     </item>
     
     <item>

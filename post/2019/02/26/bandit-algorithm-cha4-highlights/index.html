@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bandit Algorithm Cha4 Highlights | Yufei&#39;s Stub</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Bandit Algorithm Cha4 Highlights</span></h1>
+
+<h2 class="date">2019/02/26</h2>
+</div>
+
+<main>
+
+
+
+<p><strong>Stochastic Bandit</strong>: a collection of distributions <span class="math inline">\(\nu = (P_a: a\in\mathcal{A})\)</span> where <span class="math inline">\(\mathcal{A}\)</span> is a set of available actions. The learner and the environment interact sequentially over n rounds. In each round <span class="math inline">\(t\in\{1,...,n\}\)</span> the learner chooses an action <span class="math inline">\(A_t\in\mathcal{A}\)</span>, which is fed to the environment. The environment then samples a reward <span class="math inline">\(X_t\in\mathbb{R}\)</span> from the distribution <span class="math inline">\(P_{A_t}\)</span>, and reveals <span class="math inline">\(X_t\)</span> to the learner.</p>
+<p><strong>Environment class</strong>: a class <span class="math inline">\(\xi\)</span> gives the observer information about the bandits belonging to it. For example, finite variance etc. Environmental class can be classified into two types in terms of the dependence among arms. For the <strong>unstructured class</strong>, the observer cannot know other arm’s information by playing one arm; for the <strong>structured class</strong>, the observer is able to get information from other arms by playing one arm.</p>
+<hr />
+<p>The notations we need to prove the properties of regret of stochastic bandits:
+<span class="math display">\[\mu^* \text{is the mean of optimal arm }\]</span>
+<span class="math display">\[\mu_a \text{ is the mean of the a-th arm.}\]</span>
+<span class="math display">\[\Delta_a = \mu^*(\nu) - \mu_a(\nu)\]</span>
+<span class="math display">\[T_a(n) = \sum\limits_{t=1}^n I\{A_t == a\}\]</span></p>
+<p>The learning objective of bandit algorithm is to maximize the <strong>reward</strong>, or equivalently, minimize the <strong>regret</strong>.</p>
+<p><strong>Reward</strong>:
+<span class="math display">\[S_n = \sum\limits_{t=1}^n X_t\]</span></p>
+<p><strong>Empirical Regret</strong>:
+<span class="math display">\[\hat{R_n} = n\mu^* - \sum\limits_{t=1}^n X_t\]</span></p>
+<p><strong>Expected Regret</strong>:
+<span class="math display">\[R_n(\pi, \nu) = n\mu^*(\nu) - \sum\limits_{t=1}^n \mathbb{E}[X_t] = \sum\limits_{a\in\mathcal{A}}\Delta_a \mathbb{E}[T_a(n)]\]</span></p>
+<p>Of course, given a policy, different bandits will have different regrets. A decently good policy is a policy such that <span class="math inline">\(\lim\limits_{n\rightarrow\infty}R_n(\pi, \nu)/n = 0\)</span>. More specifically,
+<span class="math display">\[R_n(\pi, \nu)\leq C(\nu)f(n)\]</span>
+where <span class="math inline">\(C\)</span> is a constant and <span class="math inline">\(f(n)\rightarrow 0\)</span>.</p>
+<hr />
+<p>A <a href="https://github.com/Pythongoras/Pythongoras_github_io_files/blob/master/q6.py">toy code</a> and <a href="https://github.com/Pythongoras/Pythongoras_github_io_files/blob/master/q6_exp.ipynb">experiment</a> about the python implementation of Bernoulli Bandit. (Exercise 4.6, 4.7, 4.10, 4.11)</p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async
+src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+  
+  <hr/>
+  The theme of this website was gratefully taken from &copy; <a href="https://yihui.name">Yihui Xie</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
