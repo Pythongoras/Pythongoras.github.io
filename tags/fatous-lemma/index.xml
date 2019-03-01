@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fatou&#39;s Lemma on Yufei&#39;s Stub</title>
+    <link>https://Pythongoras.github.io/tags/fatous-lemma/</link>
+    <description>Recent content in Fatou&#39;s Lemma on Yufei&#39;s Stub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Pythongoras.github.io/tags/fatous-lemma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fatou’s Lemma Intuition Revisit</title>
+      <link>https://Pythongoras.github.io/post/2019/02/28/fatou-s-lemma-intuition-revisit/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Pythongoras.github.io/post/2019/02/28/fatou-s-lemma-intuition-revisit/</guid>
+      <description>Fatou’s Lemma Suppose \(\{f_n\}\) is a sequence of measurable functions with \(f_n \geq 0\). If \(\lim\limits_{n\rightarrow\infty}f_n(x) = f(x)\,\, a.e.\), then \[\int f \leq \lim \inf \int f_n\]
+Intuition : The RHS of Fatou’s Lemma has \(\lim \inf\) because we don’t always have \(f_n\leq f\) even though \(f_n\rightarrow f\). 
+By the definition of the integral of non-negative function: \[\int f = \sup \int g, \,\,\text{ where } g \leq f, \text{ bounded and supported in a finite set}\]</description>
+    </item>
+    
+  </channel>
+</rss>

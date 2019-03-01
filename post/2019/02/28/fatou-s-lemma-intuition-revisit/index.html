@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fatou’s Lemma Intuition Revisit | Yufei&#39;s Stub</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Fatou’s Lemma Intuition Revisit</span></h1>
+
+<h2 class="date">2019/02/28</h2>
+</div>
+
+<main>
+
+
+
+<p><strong>Fatou’s Lemma</strong> Suppose <span class="math inline">\(\{f_n\}\)</span> is a sequence of measurable functions with <span class="math inline">\(f_n \geq 0\)</span>. If <span class="math inline">\(\lim\limits_{n\rightarrow\infty}f_n(x) = f(x)\,\, a.e.\)</span>, then
+<span class="math display">\[\int f \leq \lim \inf \int f_n\]</span></p>
+<p><strong>Intuition : The RHS of Fatou’s Lemma has <span class="math inline">\(\lim \inf\)</span> because we don’t always have <span class="math inline">\(f_n\leq f\)</span> even though <span class="math inline">\(f_n\rightarrow f\)</span>. </strong></p>
+<p>By the definition of the integral of non-negative function:
+<span class="math display">\[\int f = \sup \int g, \,\,\text{  where  } g \leq f, \text{ bounded and supported in a finite set}\]</span></p>
+<p>It’s not hard to construct a proof by bounded convergence theorem, that if we add a condition <span class="math inline">\(f_n\leq f\)</span> to Fatou’s Lemma, the result will become
+<span class="math display">\[\int f = \lim  \int f_n\]</span></p>
+<p>Fatou’s Lemma is actually one direction of the above equality.</p>
+<p><strong>Proof Sketch:</strong>
+Suppose <span class="math inline">\(0\leq g\leq f\)</span>, where <span class="math inline">\(g\)</span> is bounded and supported on a finite set <span class="math inline">\(E\)</span>. Let <span class="math inline">\(g_n = \min(f_n, g)\)</span>, then <span class="math inline">\(g_n\rightarrow g\)</span> is also bounded and supported on a finite set. By BCT
+<span class="math display">\[\int g = \lim \int g_n  \leq \int f_n\]</span>
+Thus
+<span class="math display">\[\int f  = \sup \int g \leq \lim\inf \int f_n\]</span></p>
+<p>Here is the end of the proof of Fatou’s Lemma.</p>
+<p>And since <span class="math inline">\(f_n \leq f\)</span>, the other direction
+<span class="math display">\[\lim \sup\int f_n \leq \int f\]</span></p>
+<p>Q.E.D.</p>
+<hr />
+<p>An example of <span class="math inline">\(f_n\rightarrow f, f_n\geq f\)</span>:
+<span class="math display">\[f_n = \begin{cases}
+1/n,\quad x\in[-1/n, 1/n] \\
+0,\quad otherwise
+\end{cases}\]</span>
+<span class="math display">\[f (x)= 0\]</span>
+Then
+<span class="math display">\[\int f = 0, \quad \quad \lim \int f_n = 2\]</span></p>
+<p>The Fatou’s Lemma holds but <span class="math inline">\(\int f &lt; \lim \int f_n\)</span>.</p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async
+src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+  
+  <hr/>
+  The theme of this website was gratefully taken from &copy; <a href="https://yihui.name">Yihui Xie</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+
