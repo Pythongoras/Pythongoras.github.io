@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Yufei
 ....这人很懒，什么都没留下
 
