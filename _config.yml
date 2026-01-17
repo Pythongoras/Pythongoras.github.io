@@ -1,0 +1,6 @@
+title: Yufei
+description: My cookbooks
+theme: jekyll-theme-minimal
+
+# 让 URL 更干净：/about 而不是 /about.html
+permalink: pretty
