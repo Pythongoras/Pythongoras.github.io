@@ -30,6 +30,14 @@
     ul {
       margin-top: 0.3em;
     }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    /* 图片位置：在 <img> 的 class 里选一个用 */
+    .img-center { display: block; margin-left: auto; margin-right: auto; }
+    .img-left   { display: block; float: left;   margin: 0 1em 0.5em 0; }
+    .img-right  { display: block; float: right;  margin: 0 0 0.5em 1em; }
   </style>
 </head>
 
@@ -46,6 +54,9 @@ I was trained as a statistician and now work as a software engineer, with a pref
 As a NASM-certified personal trainer, I also maintain a small personal practice in astrology and wellbeing.
 </p>
 
+<!-- 图片：把 <img> 剪贴到你想出现的位置；class 控制对齐：img-center 居中 / img-left 靠左 / img-right 靠右 -->
+<!-- <img src="images/你的图片名.jpg" alt="图片描述" width="300" class="img-center"> -->
+
 <table>
 <tr>
 
@@ -53,7 +64,8 @@ As a NASM-certified personal trainer, I also maintain a small personal practice 
 
 <h2>All But Statistics</h2>
 <p>
-On the craftsmanship behind AI engineering.
+"In fact, the whole history of the discovery of the foundations of analysis reads backward - much as one peels a cabbage starting from the outermost leaves and working inward - so mathematicians started by giving precise definitions for the most advanced concepts such as derivative and integral in terms of an intuitive real number system, then worked inward to construct the real number system in terms of an intuitive set theory, and then worked to the core of axiomatic set theory."
+-- Robert S. Strichartz, The Way of Analysis
 </p>
 
 <h3>Deep Learning</h3>
@@ -129,9 +141,10 @@ On the craftsmanship behind AI engineering.
 
 <td width="45%">
 
-<h2>Recent Writing</h2>
+<h2>All But Coding</h2>
 <p>
-Recent, unclassified cookbooks.
+"The first published binary search algorithm appeared in 1946, but the first bug-free version wasn't written until 1962."
+-- Donald E. Knuth, The Art of Computer Programming
 </p>
 <ul>
   <li><a href="/recent-writing/When-Backprop-Breaks-Quietly.html">LLM Evaluation Tools</a></li>
